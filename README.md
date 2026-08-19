@@ -95,6 +95,12 @@ korea-travel-hub/
 
 ¿Tienes ideas para mejorar la app? ¡Las contribuciones son bienvenidas!
 
+### 🎨 Vibe Coding
+
+Este proyecto fue desarrollado usando **vibe-coding** — un enfoque experimental de desarrollo ágil y creativo con asistencia de IA. Es el primer proyecto usado para probar esta metodología.
+
+**Si tienes sugerencias de mejora, encuentras bugs, o tienes feedback sobre el código o la arquitectura, ¡no dudes en reportarlo!** Cualquier comentario es bienvenido y ayuda a mejorar tanto la app como el proceso de desarrollo.
+
 ### 📄 Licencia
 
 Este proyecto es personal y está disponible bajo licencia MIT.
@@ -191,6 +197,12 @@ korea-travel-hub/
 ### 🤝 Contributing
 
 Have ideas to improve the app? Contributions are welcome!
+
+### 🎨 Vibe Coding
+
+This project was developed using **vibe-coding** — an experimental agile and creative development approach with AI assistance. It's the first project used to test this methodology.
+
+**If you have suggestions for improvement, find bugs, or have feedback about the code or architecture, don't hesitate to report it!** Any comment is welcome and helps improve both the app and the development process.
 
 ### 📄 License
 
