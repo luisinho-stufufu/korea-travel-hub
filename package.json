@@ -1,0 +1,14 @@
+{
+  "name": "korea-travel-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.8",
+    "lucide-react": "^1.25.0"
+  }
+}
