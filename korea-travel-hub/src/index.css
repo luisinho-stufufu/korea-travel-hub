@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* ── Lavanda #A76EEE (acento) ── */
+  --color-lavender-50:  #f6eeff;
+  --color-lavender-100: #ecdeff;
+  --color-lavender-200: #d9c0ff;
+  --color-lavender-300: #c09af9;
+  --color-lavender-400: #b484f4;
+  --color-lavender-500: #A76EEE;
+  --color-lavender-600: #9058d6;
+  --color-lavender-700: #7841bb;
+  --color-lavender-800: #5e30a0;
+  --color-lavender-900: #4a2580;
+  --color-lavender-950: #2d1550;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+  color: #0f172a;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  overflow-x: hidden;
+}
+
+html.dark body {
+  background: #18181B;
+  color: #fafafa;
+}
+
+#root {
+  min-height: 100vh;
+}
+
